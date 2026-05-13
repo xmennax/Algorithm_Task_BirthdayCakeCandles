@@ -16,7 +16,7 @@ int BirthdayCakeCandle(int candles[], int n, int index, int *maxH, int count)
     {
         count++;
     }
-    BirthdayCakeCandle(candles, n, index + 1, maxH, count);
+    return BirthdayCakeCandle(candles, n, index + 1, maxH, count);
 }
 int main()
 {
