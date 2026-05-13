@@ -1,5 +1,3 @@
-// Brute-Force (Iterative)
-
 #include <stdio.h>
 int BirthdayCakeCandle(int n, int candles[])
 {
