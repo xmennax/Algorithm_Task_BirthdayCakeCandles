@@ -1,5 +1,3 @@
-// Divide and Conquer (recursive)
-
 #include <stdio.h>
 int BirthdayCakeCandles(int candles[], int low, int high, int *maxH)
 {
