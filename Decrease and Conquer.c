@@ -1,4 +1,4 @@
-// Deacreasse and Conquer (recursive)
+// Decrease and Conquer (recursive)
 
 #include <stdio.h>
 int BirthdayCakeCandle(int candles[], int n, int index, int *maxH, int count)
